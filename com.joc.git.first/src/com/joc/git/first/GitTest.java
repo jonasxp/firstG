@@ -7,6 +7,7 @@ public class GitTest {
 		System.out.println("Git was fun");
 		System.out.println("Git wasn't cool");
 
+		System.out.print("look this step\n");
 	}
 
 }
